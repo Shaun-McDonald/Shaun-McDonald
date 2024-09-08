@@ -44,6 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="elastic search" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/graphdb-logo.png" title="GraphDB" alt="GraphDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original.svg" title="homebrew" alt="homebrew" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
@@ -61,8 +62,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original.svg" title="pypi" alt="pypi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/schema-dot-org.png" title="schema.org" alt="schema.org" width="40" height="40"/>&nbsp;
   <img src="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png" title="VSCodium" alt="VSCodium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/xsd.png" title="xsd" alt="xsd" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/xslt.png" title="xslt" alt="xslt" width="40" height="40"/>&nbsp;
 </div>
 <!---
 Shaun-McDonald/Shaun-McDonald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
