@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
@@ -46,6 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/graphdb-logo.png" title="GraphDB" alt="GraphDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original.svg" title="homebrew" alt="homebrew" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
@@ -57,14 +59,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" title="perl" alt="perl" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+  <a href="https://www.poolparty.biz"><img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/swc-pool-party.png" title="SWC-PoolParty" alt="SWC-PoolParty" width="40" height="40"/></a>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" alt="putty" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original.svg" title="pypi" alt="pypi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/regex.png" title="regex" alt="regex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/schema-dot-org.png" title="schema.org" alt="schema.org" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/sparql.svg" title="SPARQL" alt="SPARQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png" title="VSCodium" alt="VSCodium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/xsd.png" title="xsd" alt="xsd" width="40" height="40"/>&nbsp;
