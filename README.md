@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: About Me :
-- 👋 Hi, I’m @Shaun-McDonald
+- 👋 Hi, I’m @Shaun-McDonald, this is my new account. I'm still consolidating all my code, so it's going to look sparse for a bit.
 - 👀 I’m interested in Python, semantic technologies and fitting training data to classifier models
 - 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shaunmcdonald/)
 - 😄 Pronouns: (he/him)
