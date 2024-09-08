@@ -62,7 +62,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original.svg" title="pypi" alt="pypi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/regex.png" title="regex" alt="regex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/schema-dot-org.png" title="schema.org" alt="schema.org" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/sparql.svg" title="SPARQL" alt="SPARQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png" title="VSCodium" alt="VSCodium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/xsd.png" title="xsd" alt="xsd" width="40" height="40"/>&nbsp;
