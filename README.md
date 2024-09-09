@@ -67,6 +67,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/schema-dot-org.png" title="schema.org" alt="schema.org" width="40" height="40"/>&nbsp;
   <img src="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png" title="VSCodium" alt="VSCodium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/wsl2.jpg" title="WSL2" alt="WSL2" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/xsd.png" title="xsd" alt="xsd" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Shaun-McDonald/Shaun-McDonald/blob/main/img/xslt.png" title="xslt" alt="xslt" width="40" height="40"/>&nbsp;
